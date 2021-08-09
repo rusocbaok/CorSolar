@@ -1,2 +1,2 @@
 # CorSolar
-www.corsolar.com.ar
+www.corsolar.biz
